@@ -1,0 +1,15 @@
+# *******Skillrack_Dialy_Challenge_4*******
+
+
+#Program to convert c program to python program
+
+N = int(input())
+
+
+num = str(N)
+
+
+print(len(num))
+
+
+#Skillrack_Dialy_Challenge_4
